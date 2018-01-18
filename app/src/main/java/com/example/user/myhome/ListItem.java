@@ -37,7 +37,7 @@ public class ListItem {
 
             ListItem listItem = new ListItem();
             listItem.setImageId(images[i]);
-            listItem.setDescription("Landscape " + i);
+            listItem.setDescription("Info " + i);
 
             dataList.add(listItem);
         }
